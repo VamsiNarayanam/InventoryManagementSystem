@@ -1,1 +1,1 @@
-# InventoryManagementSystem is all about
+# InventoryManagementSystem
